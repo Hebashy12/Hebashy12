@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Full Stack Web Development<br>🎯 Goals: make life more easy and make all as Digital <br>🎲 Fun fact: Programming Like a game but more exiting</p>
+<p align="left">
+  ✨ Creating bugs since 2020
+  <br>
+  📚 I'm currently learning Full Stack Web Development
+  <br>
+  🎯 Goals: Make life easier by turning everything digital <br>🎲 Fun fact: Programming feels like a game — but way more exciting!</p>
 
 ###
 
