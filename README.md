@@ -38,8 +38,8 @@
 </p>
 
 ###
-<br>
-<h3>📫 Connect with me</h3>
+
+<h2>📫 Connect with me</h2>
 
 <p>
   <a href="mailto:mohamedhebashy497@gmail.com">
